@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hey! I'm Anton
 
-<!--
-**Anthropophag/Anthropophag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects
 
-Here are some ideas to get you started:
+| **Lab projects**                                                                                                       | Pet projects                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| • [bookswap](https://github.com/alchemmist/bookswap) - A web application for a free paper book exchange (Java, Go, JS) | • [SchoolRing](https://github.com/alchemmist/SchoolRing) – Desktop application for managing the school call system (Python, PyQT) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### Info
+
+- 🔭 I’m currently working on [bookswap](https://github.com/alchemmist/bookswap)
+- 🌱 I’m currently learning [Coq](https://rocq-prover.org/)
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🤔 I’m looking for help with internship in bigtech company
+- 💬 My actual [CV](https://github.com/alchemmist/CV/blob/main/resume-en.pdf)
+- 📫 How to reach me: [telegram](https://t.me/alchemmist)
 - ⚡ Fun fact: ...
--->
+
