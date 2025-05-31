@@ -2,9 +2,33 @@ How to reach me: [@alchemmist](https://t.me/alchemmist)
 
 I'm a Software Engineering student at Central University.
 ### Projects
-| Pet projects | **Lab projects** |
-| --- | --- |
-| • [smart-cab](https://github.com/smart-cab) – Smart home system for private and public educational institutions. <br> • [starship](https://github.com/starship-crew) – Multiplayer Telegram text game providing real-time space fights between starships! <br> • [school-ring](https://github.com/alchemmist/school-ring) – Desktop application for managing the school call system. <br> • [corpse](https://github.com/corpse-inc/corpse) – Full-featured modular ECS survival TDS game engine + funny indie game about zombie apocalypse, as sandbox.<br> | • [bookswap](https://github.com/alchemmist/bookswap) – Web application for a free paper book exchange. <br> • [react-comps-generator](https://github.com/alchemmist/react-comps-generator) – Comand line util for fast create skelet of new React component. <br> • [cloud-voyage](https://github.com/alchemmist/cloud) – Web application for see weather before trip. <br> • [game-of-life](https://github.com/alchemmist/christmas-landing) – Simpl game implement classic evolution model. <br> • [christmas-landing](https://github.com/alchemmist/christmas-landing) – Christmas landing of comming 2023 yaer. <br> • [gifting-game](https://github.com/alchemmist/gifting-game) – A heartwarming holiday story wrapped as a text-based novel game.<br> |
+<table>
+  <thead>
+    <tr>
+      <th>Pet projects</th>
+      <th><strong>Lab projects</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        • <a href="https://github.com/smart-cab">smart-cab</a> – Smart home system for private and public educational institutions.<br>
+        • <a href="https://github.com/starship-crew">starship</a> – Multiplayer Telegram text game providing real-time space fights between starships!<br>
+        • <a href="https://github.com/alchemmist/bgo">bgo</a> – Sexy terminal util to view the weather<br>
+        • <a href="https://github.com/alchemmist/school-ring">school-ring</a> – Desktop application for managing the school call system.<br>
+        • <a href="https://github.com/corpse-inc/corpse">corpse</a> – Full-featured modular ECS survival TDS game engine + funny indie game about zombie apocalypse, as sandbox.<br><br><br><br><br>
+      </td>
+      <td>
+        • <a href="https://github.com/alchemmist/bookswap">bookswap</a> – Web application for a free paper book exchange.<br>
+        • <a href="https://github.com/alchemmist/react-comps-generator">react-comps-generator</a> – Comand line util for fast create skelet of new React component.<br>
+        • <a href="https://github.com/alchemmist/cloud">cloud-voyage</a> – Web application for see weather before trip.<br>
+        • <a href="https://github.com/alchemmist/christmas-landing">game-of-life</a> – Simpl game implement classic evolution model.<br>
+        • <a href="https://github.com/alchemmist/christmas-landing">christmas-landing</a> – Christmas landing of comming 2023 yaer.<br>
+        • <a href="https://github.com/alchemmist/gifting-game">gifting-game</a> – A heartwarming holiday story wrapped as a text-based novel game.<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ### Somthing else

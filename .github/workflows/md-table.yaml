@@ -1,5 +1,5 @@
 name: md-table
-on: [push]
+on: []
 jobs:
   md-lint:
     if: github.actor != 'github-actions'
