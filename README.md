@@ -1,6 +1,6 @@
 How to reach me: [@alchemmist](https://t.me/alchemmist)
 
-I'm a Software Engineering student at Central University.
+I'm a Software Engineering student at [Central University](https://centraluniversity.ru).
 
 ### Projects
 
