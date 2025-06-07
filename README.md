@@ -1,7 +1,9 @@
 How to reach me: [@alchemmist](https://t.me/alchemmist)
 
 I'm a Software Engineering student at Central University.
+
 ### Projects
+
 <table>
   <thead>
     <tr>
@@ -30,9 +32,33 @@ I'm a Software Engineering student at Central University.
   </tbody>
 </table>
 
-
 ### Somthing else
+
 - My **[CV](https://github.com/alchemmist/CV/blob/main/pdf/english.pdf)** is public and open-source, build with latex. Read it, ask questions, use as template!
 - I'm **Linux** user _(currently Arch)_, so i have a [dotfiles](https://github.com/alchemmist/.dotfiles). There you will find useful scripts, productivity shell setup, etc.
 - My main text editor is a **Neovim**. I’m writing my configuration from scratch, so it’s very minimalistic and custom. [Try it](https://github.com) and fork!
 - Furthermore I’m write a **colorscheme** [nothing](https://github.com/alchemmist/nothing.nvim) for Neovim with minimum of color: code – is not a garland.
+
+### More code
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Archive</strong></th>
+      <th>Hackathons</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        • <a href="https://github.com/alchemmist/vpn-bot">vpn-bot</a> – Bot for administering and selling WireGuard keys by subscription.<br>
+        • <a href="https://github.com/alchemmist/portu-hack">portu-hack</a> – Portugal Embassy Parser for lightning-fast exposure of new Visa slots.<br>
+        • <a href="https://github.com/alchemmist/content-parser">content-parser</a> – A bot for collecting relevant messages from chats, groups and Telegram channels.<br>
+      </td>
+      <td>
+        • <a href="https://github.com/alchemmist/sport-afisha">sport-afisha</a> – Service aggregator of all sporting events in Russia.<br>
+        • <a href="https://github.com/alchemmist/sporprog">sportprog</a> – Platform that will ensure effective interaction between the Sports Programming Federation and its regional representatives.<br><br><br><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
