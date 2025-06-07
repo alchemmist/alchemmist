@@ -14,6 +14,7 @@ I'm a Software Engineering student at Central University.
   <tbody>
     <tr>
       <td>
+        • <a href="https://github.com/alchemmist/devsyringe">devsyringe</a> – Tool for hard injecting data into code.<br>
         • <a href="https://github.com/smart-cab">smart-cab</a> – Smart home system for private and public educational institutions.<br>
         • <a href="https://github.com/starship-crew">starship</a> – Multiplayer Telegram text game providing real-time space fights between starships!<br>
         • <a href="https://github.com/alchemmist/bgo">bgo</a> – Sexy terminal util to view the weather<br>
@@ -42,22 +43,25 @@ I'm a Software Engineering student at Central University.
 ### More code
 
 <table>
-  <thead>
+  <tbody>
     <tr>
       <th><strong>Archive</strong></th>
-      <th>Hackathons</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td>
         • <a href="https://github.com/alchemmist/vpn-bot">vpn-bot</a> – Bot for administering and selling WireGuard keys by subscription.<br>
         • <a href="https://github.com/alchemmist/portu-hack">portu-hack</a> – Portugal Embassy Parser for lightning-fast exposure of new Visa slots.<br>
         • <a href="https://github.com/alchemmist/content-parser">content-parser</a> – A bot for collecting relevant messages from chats, groups and Telegram channels.<br>
+        • <a href="https://github.com/alchemmist/outline-vpn-cli">outline-vpn-cli</a> – CLI tool for massive manage outline servers.<br>
       </td>
+    </tr>
+    <tr>
+      <th><strong>Hackathons</strong></th>
+    </tr>
+    <tr>
       <td>
         • <a href="https://github.com/alchemmist/sport-afisha">sport-afisha</a> – Service aggregator of all sporting events in Russia.<br>
-        • <a href="https://github.com/alchemmist/sporprog">sportprog</a> – Platform that will ensure effective interaction between the Sports Programming Federation and its regional representatives.<br><br><br><br>
+        • <a href="https://github.com/alchemmist/sporprog">sportprog</a> – Platform that will ensure effective interaction between the Sports Programming Federation and its regional representatives.<br>
       </td>
     </tr>
   </tbody>
