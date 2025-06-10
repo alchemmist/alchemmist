@@ -42,7 +42,8 @@ I'm a Software Engineering student at [Central University](https://centraluniver
 - My main text editor is a **Neovim**. I’m writing my configuration from scratch, so it’s very minimalistic and custom. [Try it](https://github.com/alchemmist/PDE) and fork!
 - Furthermore I’m write a **colorscheme** [nothing](https://github.com/alchemmist/nothing.nvim) for Neovim with minimum of color: code – is not a garland.
 
-### More code
+<details>
+  <summary><strong>More code</strong></summary>
 
 <table>
   <tbody>
@@ -69,3 +70,4 @@ I'm a Software Engineering student at [Central University](https://centraluniver
     </tr>
   </tbody>
 </table>
+</details>
