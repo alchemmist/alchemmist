@@ -25,8 +25,8 @@ I'm a Software Engineering student at [Central University](https://centraluniver
         • <a href="https://github.com/alchemmist/bookswap">bookswap</a> – Web application for a free paper book exchange.<br>
         • <a href="https://github.com/alchemmist/react-comps-generator">react-comps-generator</a> – Comand line util for fast create skelet of new React component.<br>
         • <a href="https://github.com/alchemmist/cloud">cloud-voyage</a> – Web application for see weather before trip.<br>
-        • <a href="https://github.com/alchemmist/game-of-life">game-of-life</a> – Simpl game implement classic evolution model.<br>
-        • <a href="https://github.com/alchemmist/christmas-landing">christmas-landing</a> – Christmas landing of comming 2023 yaer.<br>
+        • <a href="https://github.com/alchemmist/game-of-life">game-of-life</a> – Simple game implement classic evolution model.<br>
+        • <a href="https://github.com/alchemmist/christmas-landing">christmas-landing</a> – Christmas landing of comming 2023 year.<br>
         • <a href="https://github.com/alchemmist/yandex-mars">yandex-mars</a> – Web application about space exploration and colonization of Mars.<br>
         • <a href="https://github.com/alchemmist/gifting-game">gifting-game</a> – A heartwarming holiday story wrapped as a text-based novel game.<br>
         • <a href="https://github.com/gen-host/yandex-maps">yandex-maps</a> – Desktop Qt application like Google maps<br>
@@ -35,12 +35,12 @@ I'm a Software Engineering student at [Central University](https://centraluniver
   </tbody>
 </table>
 
-### Somthing else
+### Something else
 
 - My **[CV](https://github.com/alchemmist/CV/blob/main/pdf/english.pdf)** is public and open-source, build with latex. Read it, ask questions, use as template!
-- I'm **Linux** user _(currently Arch)_, so i have a [dotfiles](https://github.com/alchemmist/.dotfiles). There you will find useful scripts, productivity shell setup, etc.
+- I'm **Linux** user _(currently Arch)_, so I have [dotfiles](https://github.com/alchemmist/.dotfiles). There you will find useful scripts, productivity shell setup, etc.
 - My main text editor is a **Neovim**. I’m writing my configuration from scratch, so it’s very minimalistic and custom. [Try it](https://github.com/alchemmist/PDE) and fork!
-- Furthermore I’m write a **colorscheme** [nothing](https://github.com/alchemmist/nothing.nvim) for Neovim with minimum of color: code – is not a garland.
+- Furthermore I write a **colorscheme** [nothing](https://github.com/alchemmist/nothing.nvim) for Neovim with minimum of color: code – is not a garland.
 
 <details>
   <summary><strong>More code</strong></summary>
