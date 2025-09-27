@@ -1,4 +1,3 @@
-
 [![Blog](https://img.shields.io/badge/alchemmist.xyz-red?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAQAAACROWYpAAAAAmJLR0QA/4ePzL8AAAAHdElNRQfpCBkNDSaPhdvdAAACo0lEQVQ4y53VX2iVdRgH8I/nnE2nW6fNjnNMatgitiAUMc2ifzQqnJBgCCbtItdNdhF1IWiIVxFdSESQBBEYxRpdSBcGBbWIMmgKwSmtobOpHW3OrbENPTvn14Vnp/dsew/k97153ufh+zy/3/N83+clHo16tbhFPG5S77x0ddHXxAJKh3Ulq0G99khkiy+9WJ282zFd4Haky/47veMBM9UP+6RJI17zkM8EWfeV/G8KfrCyOjntlCCYUhAEv3pbr7eMm9UD7vVC5EQV2GlMKD3FshUEWRlJu/zuonsghad0+9hPWOolhzS66pRB5/yj1hqbPKwRQYfn7FFrv7NztV4VnLfHFh+5YcYRGytGUutRA4KCccGUQ5b+F2xyRFHehGDaK5KLXKbNt4Jg1PPz48sdNCMI3peKaeRmOcE30apzqHFUMGZT7BQSjgoGLF8okryTGHI6llw0iJVWLCSzBldMV1HAVaxyB6iTsWLuhsusR2oRuVYWanJQ1l3WajGc0m61jMdsQKvb/B1LbkbSThCMO5vytdXlDrbpNBBb936M+lTOhBHnDKf84YoLRrXqUm+H74RFyW0exG/2RftSLy2JBn2CXOyw3hAE097zhMzC8FbXBcdL/axEl1z5A5nVf1O+UT21SOFph73ucsS/xFaHNbvmmJy7dRiWr8zdKVvOPWCbRgkJaZu9a0xw3ctulmuaL9F6nwvO2+tDecG0n/Xpc8K1UsLLOuNm2G3WqO2o80HFCggmXVAQ9Feswwge8WNpydAtr2DQcZcEf9pmrQMmBSdtXIycjGylZxV9r1XSDjd8pQYJuwwJ+qMtnjMLJsq+jCW+cBGnTWmwTF7RJ37RI6uoKvYasQG0+8sZzf4HVllXWjVpJwzd+v/qGT1q4oL/ArGV39EThJYTAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDI1LTA4LTI1VDEzOjEzOjMyKzAwOjAw870+1wAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyNS0wOC0yNVQxMzoxMzozMiswMDowMILghmsAAAAodEVYdGRhdGU6dGltZXN0YW1wADIwMjUtMDgtMjVUMTM6MTM6MzgrMDA6MDBxhfj6AAAAAElFTkSuQmCC&logoColor=violet&label=blog&labelColor=white&color=grey)](https://alchemmist.xyz?utm_source=github)
 
 <!--     <a href="https://t.me/alchemmist_blog"><img src="https://img.shields.io/badge/%40alchemmist_blog-red?style=flat&logo=telegram&logoColor=%2326A5E4&logoSize=auto&label=tg&labelColor=white&color=blue -->
@@ -43,12 +42,12 @@ I'm a Software Engineering student at [Central University](https://centraluniver
       <td>
         • <a href="https://github.com/alchemmist/bookswap">bookswap</a> – Web application for a free paper book exchange.<br>
         • <a href="https://github.com/alchemmist/react-comps-generator">react-comps-generator</a> – Comand line util for fast create skelet of new React component.<br>
-        • <a href="https://github.com/alchemmist/cloud">cloud-voyage</a> – Web application for see weather before trip.<br>
+        • <a href="https://github.com/alchemmist/cloud-voyage">cloud-voyage</a> – Web application for see weather before trip.<br>
         • <a href="https://github.com/alchemmist/game-of-life">game-of-life</a> – Simple game implement classic evolution model.<br>
         • <a href="https://github.com/alchemmist/christmas-landing">christmas-landing</a> – Christmas landing of comming 2023 year.<br>
         • <a href="https://github.com/alchemmist/yandex-mars">yandex-mars</a> – Web application about space exploration and colonization of Mars.<br>
         • <a href="https://github.com/alchemmist/gifting-game">gifting-game</a> – A heartwarming holiday story wrapped as a text-based novel game.<br>
-        • <a href="https://github.com/gen-host/yandex-maps">yandex-maps</a> – Desktop Qt application like Google maps<br>
+        • <a href="https://github.com/genhost/yandex-maps">yandex-maps</a> – Desktop Qt application like Google maps<br>
       </td>
     <tr>
       <th><strong>Hackathons</strong></th>
@@ -56,7 +55,7 @@ I'm a Software Engineering student at [Central University](https://centraluniver
     <tr>
       <td>
         • <a href="https://github.com/alchemmist/sport-afisha">sport-afisha</a> – Service aggregator of all sporting events in Russia.<br>
-        • <a href="https://github.com/alchemmist/sporprog">sportprog</a> – Platform that will ensure effective interaction between the Sports Programming Federation and its regional representatives.<br>
+        • <a href="https://github.com/alchemmist/sportprog">sportprog</a> – Platform that will ensure effective interaction between the Sports Programming Federation and its regional representatives.<br>
       </td>
     </tr>
     <tr>
