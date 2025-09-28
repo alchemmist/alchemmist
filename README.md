@@ -44,6 +44,7 @@ I'm a Software Engineering student at [Central University](https://centraluniver
         • <a href="https://github.com/alchemmist/react-comps-generator">react-comps-generator</a> – Comand line util for fast create skelet of new React component.<br>
         • <a href="https://github.com/alchemmist/cloud-voyage">cloud-voyage</a> – Web application for see weather before trip.<br>
         • <a href="https://github.com/alchemmist/game-of-life">game-of-life</a> – Simple game implement classic evolution model.<br>
+        • <a href="https://github.com/alchemmist/cats">cats</a> – Web site with funny cats.<br>
         • <a href="https://github.com/alchemmist/christmas-landing">christmas-landing</a> – Christmas landing of comming 2023 year.<br>
         • <a href="https://github.com/alchemmist/yandex-mars">yandex-mars</a> – Web application about space exploration and colonization of Mars.<br>
         • <a href="https://github.com/alchemmist/gifting-game">gifting-game</a> – A heartwarming holiday story wrapped as a text-based novel game.<br>
