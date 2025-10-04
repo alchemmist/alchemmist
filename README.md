@@ -22,6 +22,7 @@ I'm a Software Engineering student at [Central University](https://centraluniver
       <td>
         • <a href="https://github.com/alchemmist/devsyringe">devsyringe</a> – Tool for hard injecting data into code.<br>
         • <a href="https://github.com/smart-cab">smart-cab</a> – Smart home system for private and public educational institutions.<br>
+        • <a href="https://github.com/ballkit">ballkit</a> – Digitial loyalty program.<br>
         • <a href="https://github.com/starship-crew">starship</a> – Multiplayer Telegram text game providing real-time space fights between starships!<br>
         • <a href="https://github.com/alchemmist/bgo">bgo</a> – Sexy terminal util to view the weather<br>
         • <a href="https://github.com/alchemmist/school-ring">school-ring</a> – Desktop application for managing the school call system.<br>
