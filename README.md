@@ -41,6 +41,7 @@ I'm a Software Engineering student at [Central University](https://centraluniver
       <th><strong>Lab projects</strong></th>
     </tr>
       <td>
+        • <a href="https://github.com/alchemmist/socnet-db">socnet-db</a> – .The simple structure of database for social network.<br>
         • <a href="https://github.com/alchemmist/bookswap">bookswap</a> – Web application for a free paper book exchange.<br>
         • <a href="https://github.com/alchemmist/react-comps-generator">react-comps-generator</a> – Comand line util for fast create skelet of new React component.<br>
         • <a href="https://github.com/alchemmist/cloud-voyage">cloud-voyage</a> – Web application for see weather before trip.<br>
