@@ -11,7 +11,7 @@ I'm a Software Engineering student at [Central University](https://centraluniver
 - My **[CV](https://github.com/alchemmist/CV/blob/main/pdf/english.pdf)** is public and open-source, build with latex. Read it, ask questions, use as template!
 - I'm Linux user (_currently Arch_), so I have [**dotfiles**](https://github.com/alchemmist/.dotfiles). There you will find useful scripts, productivity shell setup, etc.
 - My main text editor is a Neovim. I’m writing my configuration from scratch, so it’s very minimalistic and custom. [Try it](https://github.com/alchemmist/PDE) and fork!
-- Furthermore I write a colorscheme [**nothing**](https://github.com/alchemmist/nothing.nvim) for Neovim with minimum of color: code – is not a garland.
+- Furthermore I write a custom colorscheme [**moss**](https://github.com/moss-theme) for Neovim (_and not only_) with 4 colors: code – is not a garland.
 
 <table>
   <tbody>
