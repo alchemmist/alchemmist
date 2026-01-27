@@ -8,11 +8,11 @@
 
 I'm a Software Engineering student at [Central University](https://centraluniversity.ru).
 
+- I build my standalone full featured blog. You can [read](https://alchemmist.xyz?utm_source=github) it or [fork](https://github.com/alchemmist/blog) and create your own!
 - My **[CV](https://github.com/alchemmist/CV/)** is public and open-source, build with latex. Read it, ask questions, use as template!
 - I'm Linux user (_currently Arch_), so I have [**dotfiles**](https://github.com/alchemmist/.dotfiles). There you will find useful scripts, productivity shell setup, etc.
 - I’m using Neovim as main editor with my custom configuration from scratch, so it’s very minimalistic. [Try it](https://github.com/alchemmist/.dotfiles/blob/main/nvim) and fork!
 - Furthermore I write a custom colorscheme [**moss**](https://github.com/moss-theme) for Neovim (_and not only_) with 4 colors: code – is not a garland.
-- I build my standalone full featured blog. You can [read](https://alchemmist.xyz?utm_source=github) it or [fork](https://github.com/alchemmist/blog) and create your own!
 - I'm using [slidev](https://sli.dev) for making slide decks. I made the custom with my design: [`slidev-theme-alchemmist`](https://github.com/alchemmist/slidev-theme-alchemmist/). All my public talks slides is [open](https://alchemmist.github.io/talks/).
 
 <table>
@@ -26,7 +26,7 @@ I'm a Software Engineering student at [Central University](https://centraluniver
         • <a href="https://github.com/smart-cab">smart-cab</a> – Smart home system for private and public educational institutions.<br>
         • <a href="https://github.com/ballkit">ballkit</a> – Digitial loyalty program.<br>
         • <a href="https://github.com/starship-crew">starship</a> – Multiplayer Telegram text game providing real-time space fights between starships!<br>
-        • <a href="https://github.com/alchemmist/bgo">bgo</a> – Sexy terminal util to view the weather<br>
+        • <a href="https://github.com/alchemmist/bgo">bgo</a> – Sexy terminal util to view the weather.<br>
         • <a href="https://github.com/alchemmist/school-ring">school-ring</a> – Desktop application for managing the school call system.<br>
         • <a href="https://github.com/corpse-inc/corpse">corpse</a> – Full-featured modular ECS survival TDS game engine + funny indie game about zombie apocalypse, as sandbox.<br>
       </td>
@@ -43,7 +43,7 @@ I'm a Software Engineering student at [Central University](https://centraluniver
       <th><strong>Lab projects</strong></th>
     </tr>
       <td>
-        • <a href="https://github.com/alchemmist/socnet-db">socnet-db</a> – .The simple structure of database for social network.<br>
+        • <a href="https://github.com/alchemmist/socnet-db">socnet-db</a> – The simple structure of database for social network.<br>
         • <a href="https://github.com/alchemmist/bookswap">bookswap</a> – Web application for a free paper book exchange.<br>
         • <a href="https://github.com/alchemmist/react-comps-generator">react-comps-generator</a> – Comand line util for fast create skelet of new React component.<br>
         • <a href="https://github.com/alchemmist/cloud-voyage">cloud-voyage</a> – Web application for see weather before trip.<br>
@@ -52,7 +52,7 @@ I'm a Software Engineering student at [Central University](https://centraluniver
         • <a href="https://github.com/alchemmist/christmas-landing">christmas-landing</a> – Christmas landing of comming 2023 year.<br>
         • <a href="https://github.com/alchemmist/yandex-mars">yandex-mars</a> – Web application about space exploration and colonization of Mars.<br>
         • <a href="https://github.com/alchemmist/gifting-game">gifting-game</a> – A heartwarming holiday story wrapped as a text-based novel game.<br>
-        • <a href="https://github.com/genhost/yandex-maps">yandex-maps</a> – Desktop Qt application like Google maps<br>
+        • <a href="https://github.com/genhost/yandex-maps">yandex-maps</a> – Desktop Qt application like Google maps.<br>
       </td>
     <tr>
       <th><strong>Hackathons</strong></th>
