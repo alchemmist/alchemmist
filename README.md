@@ -23,6 +23,9 @@ I'm a Software Engineering student at [Central University](https://centraluniver
     <tr>
       <td>
         • <a href="https://github.com/alchemmist/devsyringe">devsyringe</a> – Tool for hard injecting data into code.<br>
+        • <a href="https://github.com/alchemmist/lazy-tmux">lazy-tmux</a> – Session manager for tmux with lazy restoring.<br>
+        • <a href="https://github.com/alchemmist/pinglo">pinglo</a> – Status indicator with simple api for waybar and not only.<br>
+        • <a href="https://github.com/alchemmist/CIer">CIer</a> – Tool for collecting and rolling out Actions workflows across projects.<br>
         • <a href="https://github.com/smart-cab">smart-cab</a> – Smart home system for private and public educational institutions.<br>
         • <a href="https://github.com/ballkit">ballkit</a> – Digitial loyalty program.<br>
         • <a href="https://github.com/starship-crew">starship</a> – Multiplayer Telegram text game providing real-time space fights between starships!<br>
