@@ -8,12 +8,12 @@
 
 I'm a Software Engineering student at [Central University](https://centraluniversity.ru).
 
-- I build my standalone full featured blog. You can [read](https://alchemmist.xyz?utm_source=github) it or [fork](https://github.com/alchemmist/blog) and create your own!
-- My [CV](https://github.com/alchemmist/CV/) is public and open-source, build with latex. Read it, ask questions, use as template!
+- I built a standalone full-featured blog. You can [read](https://alchemmist.xyz?utm_source=github) it or [fork](https://github.com/alchemmist/blog) and create your own!
+- My [CV](https://github.com/alchemmist/CV/) is public and open-source, built with LaTeX. Read it, ask questions, use as template!
 - I'm Linux user (_currently Arch_), so I have [dotfiles](https://github.com/alchemmist/.dotfiles). There you will find useful scripts, productivity shell setup, etc.
 - I’m using Neovim as main editor with my own configuration assembly, so it’s very minimalistic. Try [**ObscuraVim**](https://obscuravim.xyz)!
 - Furthermore I write a custom colorscheme [**moss**](https://github.com/moss-theme) for Neovim (_and not only_) with 4 colors: code – is not a garland.
-- I'm using [slidev](https://sli.dev) for making slide decks. I made the custom with my design: [`slidev-theme-alchemmist`](https://github.com/alchemmist/slidev-theme-alchemmist/). All my public talks slides is [open](https://alchemmist.github.io/talks/).
+- I'm using [slidev](https://sli.dev) for making slide decks. I made the custom with my design: [`slidev-theme-alchemmist`](https://github.com/alchemmist/slidev-theme-alchemmist/). All slides from my public talks are [open](https://alchemmist.github.io/talks/).
 
 <table>
   <tbody>
@@ -27,7 +27,7 @@ I'm a Software Engineering student at [Central University](https://centraluniver
         • <a href="https://github.com/alchemmist/pinglo">pinglo</a> – Status indicator with simple api for waybar and not only.<br>
         • <a href="https://github.com/alchemmist/CIer">CIer</a> – Tool for collecting and rolling out Actions workflows across projects.<br>
         • <a href="https://github.com/smart-cab">smart-cab</a> – Smart home system for private and public educational institutions.<br>
-        • <a href="https://github.com/ballkit">ballkit</a> – Digitial loyalty program.<br>
+        • <a href="https://github.com/ballkit">ballkit</a> – Digital loyalty program.<br>
         • <a href="https://github.com/starship-crew">starship</a> – Multiplayer Telegram text game providing real-time space fights between starships!<br>
         • <a href="https://github.com/alchemmist/bgo">bgo</a> – Sexy terminal util to view the weather.<br>
         • <a href="https://github.com/alchemmist/school-ring">school-ring</a> – Desktop application for managing the school call system.<br>
@@ -48,9 +48,9 @@ I'm a Software Engineering student at [Central University](https://centraluniver
       <td>
         • <a href="https://github.com/alchemmist/socnet-db">socnet-db</a> – The simple structure of database for social network.<br>
         • <a href="https://github.com/alchemmist/bookswap">bookswap</a> – Web application for a free paper book exchange.<br>
-        • <a href="https://github.com/alchemmist/react-comps-generator">react-comps-generator</a> – Comand line util for fast create skelet of new React component.<br>
+        • <a href="https://github.com/alchemmist/react-comps-generator">react-comps-generator</a> – Command line utility for fast create skelet of new React component.<br>
         • <a href="https://github.com/alchemmist/cloud-voyage">cloud-voyage</a> – Web application for see weather before trip.<br>
-        • <a href="https://github.com/alchemmist/game-of-life">game-of-life</a> – Simple game implement classic evolution model.<br>
+        • <a href="https://github.com/alchemmist/game-of-life">game-of-life</a> – Simple implementation of the classic Game of Life model.<br>
         • <a href="https://github.com/alchemmist/cats">cats</a> – Web site with funny cats.<br>
         • <a href="https://github.com/alchemmist/christmas-landing">christmas-landing</a> – Christmas landing of comming 2023 year.<br>
         • <a href="https://github.com/alchemmist/yandex-mars">yandex-mars</a> – Web application about space exploration and colonization of Mars.<br>
@@ -64,6 +64,14 @@ I'm a Software Engineering student at [Central University](https://centraluniver
       <td>
         • <a href="https://github.com/alchemmist/sport-afisha">sport-afisha</a> – Service aggregator of all sporting events in Russia.<br>
         • <a href="https://github.com/alchemmist/sportprog">sportprog</a> – Platform that will ensure effective interaction between the Sports Programming Federation and its regional representatives.<br>
+      </td>
+    </tr>
+    <tr>
+      <th><strong>Take-Home Assignments</strong></th>
+    </tr>
+    <tr>
+      <td>
+        • <a href="https://github.com/alchemmist/loglint">loglint</a> – <code>golangci-lint</code> plugin for checking log messaging in Go code.<br>
       </td>
     </tr>
     <tr>
