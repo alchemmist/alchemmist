@@ -72,6 +72,7 @@ I'm a Software Engineering student at [Central University](https://centraluniver
     <tr>
       <td>
         • <a href="https://github.com/alchemmist/loglint">loglint</a> – <code>golangci-lint</code> plugin for checking log messaging in Go code.<br>
+        • <a href="https://github.com/alchemmist/rooms">rooms</a> – Web service for managing meeting rooms in office.<br>
       </td>
     </tr>
     <tr>
