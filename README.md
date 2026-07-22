@@ -12,7 +12,6 @@ I'm a Software Engineering student at [Central University](https://centraluniver
 - My [CV](https://github.com/alchemmist/CV/) is public and open-source, built with LaTeX. Read it, ask questions, use as template!
 - I'm Linux user (_currently Arch_), so I have [dotfiles](https://github.com/alchemmist/.dotfiles). There you will find useful scripts, productivity shell setup, etc.
 - I’m using Neovim as main editor with my own configuration assembly, so it’s very minimalistic. Try [**ObscuraVim**](https://obscuravim.xyz)!
-- Furthermore I write a custom colorscheme [**moss**](https://github.com/moss-theme) for Neovim (_and not only_) with 4 colors: code – is not a garland.
 - I'm using [slidev](https://sli.dev) for making slide decks. I made the custom with my design: [`slidev-theme-alchemmist`](https://github.com/alchemmist/slidev-theme-alchemmist/). All slides from my public talks are [open](https://alchemmist.github.io/talks/).
 
 <table>
