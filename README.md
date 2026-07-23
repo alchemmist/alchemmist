@@ -6,8 +6,6 @@
 <!-- " /></a> -->
 <!--     <a href="https://bsky.app/profile/alchemmist.bsky.social"><img src="https://img.shields.io/badge/%40alchemmist-red?style=flat&logo=bluesky&logoColor=%230285FF&logoSize=auto&label=bsky&labelColor=white&color=blue" /></a> -->
 
-I'm a Software Engineering student at [Central University](https://centraluniversity.ru).
-
 - I built a standalone full-featured blog. You can [read](https://alchemmist.xyz?utm_source=github) it or [fork](https://github.com/alchemmist/blog) and create your own!
 - My [CV](https://github.com/alchemmist/CV/) is public and open-source, built with LaTeX. Read it, ask questions, use as template!
 - I'm Linux user (_currently Arch_), so I have [dotfiles](https://github.com/alchemmist/.dotfiles). There you will find useful scripts, productivity shell setup, etc.
