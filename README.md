@@ -19,7 +19,7 @@
     </tr>
     <tr>
       <td>
-        • <a href="https://github.com/alchemmist/monori">monori</a> – Self-hosted single-user envelope budgeting app.<br>
+        • <a href="https://github.com/alchemmist/monori">monori</a> – Personal finance app for budgeting, accounts, bank sync, savings goals, transaction management, and analytics.<br>
         • <a href="https://github.com/alchemmist/quality-graph">quality-graph</a> – GitHub-native framework for repository-specific quality pipelines.<br>
         • <a href="https://github.com/alchemmist/devsyringe">devsyringe</a> – Tool for hard injecting data into code.<br>
         • <a href="https://github.com/alchemmist/lazy-tmux">lazy-tmux</a> – Session manager for tmux with lazy restoring.<br>
@@ -79,6 +79,7 @@
     </tr>
     <tr>
       <td>
+        • <a href="https://github.com/alchemmist/zaborsky">zaborsky</a> – Commercial website and editable product catalog for a fence installation and landscaping company.<br>
         • <a href="https://github.com/alchemmist/vpn-bot">vpn-bot</a> – Bot for administering and selling WireGuard keys by subscription.<br>
         • <a href="https://github.com/alchemmist/portu-hack">portu-hack</a> – Portugal Embassy Parser for lightning-fast exposure of new Visa slots.<br>
         • <a href="https://github.com/alchemmist/content-parser">content-parser</a> – A bot for collecting relevant messages from chats, groups and Telegram channels.<br>
