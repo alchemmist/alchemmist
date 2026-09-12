@@ -20,8 +20,9 @@
     </tr>
     <tr>
       <td>
-        • <a href="https://github.com/alchemmist/monori">monori</a> – Personal finance app for budgeting, accounts, bank sync, savings goals, transaction management, and analytics.<br>
         • <a href="https://github.com/alchemmist/quality-graph">quality-graph</a> – GitHub-native framework for repository-specific quality pipelines.<br>
+        • <a href="https://github.com/alchemmist/monori">monori</a> – Personal finance app for budgeting, accounts, bank sync, savings goals, transaction management, and analytics.<br>
+        • <a href="https://github.com/alchemmist/format-quorum">format-quorum</a> – Service for trying out code formatting rules and voting on preferences.<br>
         • <a href="https://github.com/alchemmist/devsyringe">devsyringe</a> – Tool for hard injecting data into code.<br>
         • <a href="https://github.com/alchemmist/lazy-tmux">lazy-tmux</a> – Session manager for tmux with lazy restoring.<br>
         • <a href="https://github.com/alchemmist/pinglo">pinglo</a> – Status indicator with simple api for waybar and not only.<br>
